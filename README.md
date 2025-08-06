@@ -38,7 +38,7 @@
 
 ## 3. Tesla vs Competitors - Range and MSRP AVG and Median
 
-  <img width="2238" height="958" alt="image" src="https://github.com/user-attachments/assets/e383c6a9-92df-4cc2-9826-f8fc2be985e9" />
+  <img width="2234" height="972" alt="image" src="https://github.com/user-attachments/assets/f8a3aa0a-cea5-4e37-8ac6-edb0362be726" />
 
 
 - Tesla vehicles have a significantly higher average electric range — over 200 miles.
@@ -48,7 +48,8 @@
 - This means Tesla offers nearly double the range compared to other electric
   
 
-  <img width="2230" height="946" alt="image" src="https://github.com/user-attachments/assets/cc812097-3c58-4f63-bb1c-9582572ac6c0" />
+  <img width="2234" height="972" alt="image" src="https://github.com/user-attachments/assets/41a7ac22-2836-44df-979c-057543a5e099" />
+
 
 
 - Tesla’s average MSRP (Manufacturer's Suggested Retail Price) is close to $70,000.
